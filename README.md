@@ -11,6 +11,8 @@ Binary Framework as Swift Package with AppDynamics Instrumentation patched using
 
 👨🏻‍💻 Feel free to subscribe to channel **[SwiftUI dev](https://t.me/swiftui_dev)** in telegram.
 
+If you like this repository, please do :star: to make this useful for others.
+
 ## Requirements
 
 - iOS 11.0
