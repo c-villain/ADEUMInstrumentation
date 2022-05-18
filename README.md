@@ -5,6 +5,7 @@
     <img src="https://img.shields.io/badge/platform-IOS-blue" />
     <img src="https://img.shields.io/badge/iOS-11-blue" />
      <img src="https://img.shields.io/badge/license-MIT-blue" />
+     <img src="https://img.shields.io/badge/Xcode 13.4-OK-green" /> 
 </p>
 
 Binary Framework as Swift Package with AppDynamics Instrumentation working on Xcode > 13.3 and patched using [XCFrameworkConverter](https://github.com/igor-makarov/XCFrameworkConverter) by [Igor Makarov](https://github.com/igor-makarov).
